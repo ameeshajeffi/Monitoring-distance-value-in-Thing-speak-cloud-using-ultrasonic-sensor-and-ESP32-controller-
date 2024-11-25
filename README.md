@@ -1,4 +1,4 @@
-# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 ## EXP 6
 # Uploading ultrasonic sensor data in Thing Speak cloud
 # Name : Ameesha Jeffi
